@@ -1,0 +1,13 @@
+div.header {
+  width: 100%;
+  height: auto;
+  overflow:hidden;
+
+}
+
+div.header img {
+  float:left;
+  overflow:hidden;
+  padding: 8px;
+}
+
